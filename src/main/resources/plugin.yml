@@ -1,0 +1,12 @@
+name: LobbyEssentials
+version: ${project.version}
+main: com.hiddentech.lobbyessentials.LobbyEssentials
+api-version: 1.18
+authors: [ hidden1nin ]
+description: adds compass and other neccessities
+commands:
+  setspawn:
+    description: "sets spawn"
+  spawn:
+    description: "takes you to spawn"
+    aliases: [spawn]
